@@ -19,7 +19,7 @@ This workspace simulates an autonomous robotic caddie built on the **Unitree Go2
 1. **Standard Gazebo Sim** — visual leg animations, easier to run, good for navigation/perception testing.
 2. **High-fidelity MuJoCo Sim + Zenoh Middleware** — custom holonomic trot kinematics, precise leg-ground contact physics.
 
-### Core capabilities (from the proposal)
+### Core capabilities
 - Unitree Go2 Edu quadruped platform for terrain agility
 - Autonomous course navigation using ROS 2, SLAM, and Nav2
 - RGB-D vision with YOLO + VLM-style scene reasoning for golf-ball tracking
